@@ -22,4 +22,11 @@ Traceback (most recent call last):
   File "<pyshell#11>", line 1, in <module>
     dogs = [dog,'poodle','boxer']
 NameError: name 'dog' is not defined
->>> len
+>>> len(dogs)
+
+
+
+
+
+
+
